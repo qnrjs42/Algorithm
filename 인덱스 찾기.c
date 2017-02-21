@@ -1,7 +1,5 @@
 #include "stdafx.h"
 #include <stdio.h>
-
-#pragma Warning()
 	
 int LSearch(int ar[], int len, int target)
 {
